@@ -1,3 +1,5 @@
+package Solutions
+
 class ContestOne {
     fun problemOne(array: Array<Int>){
         var count = 0
